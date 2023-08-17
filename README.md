@@ -5,6 +5,6 @@
 
 ## 문제 풀이 그래프
 
-![GitHub Contributions](https://www.acmicpc.net/user/svhost1466)
+[GitHub Contributions](https://www.acmicpc.net/user/svhost1466)
 
 이 그래프는 문제 풀이한 날짜별로 활동을 보여줍니다.
