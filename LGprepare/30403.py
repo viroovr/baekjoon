@@ -1,9 +1,11 @@
 from collections import defaultdict
 
 rainbow = 'roygbiv'
+
+
 def main():
     N = int(input())
-    string = input()
+    string = set(input())
     dic = defaultdict(int)
     for s in string:
         dic[s] += 1
@@ -27,5 +29,6 @@ def main():
         print("yes")
     else:
         print("YES")
-    
+
+
 main()
