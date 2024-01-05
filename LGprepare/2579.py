@@ -14,6 +14,6 @@ def main():
         dp_table[i][0] = dp_table[i - 1][1] + n
         dp_table[i][1] = max(dp_table[i - 2]) + n
     print(max(dp_table[-1]))
-        
+
 
 main()
