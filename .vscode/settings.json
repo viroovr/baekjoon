@@ -45,5 +45,8 @@
     "stdexcept": "cpp",
     "streambuf": "cpp",
     "typeinfo": "cpp"
-  }
+  },
+  "remote.autoForwardPortsFallback": 0,
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "automatic"
 }
