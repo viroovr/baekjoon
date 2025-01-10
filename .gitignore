@@ -3,3 +3,5 @@ a
 .venv
 .vscode
 __pycache__
+commit_message.txt
+.untrack

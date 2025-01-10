@@ -1,7 +1,0 @@
-#!/bin/bash
-
-for i in {1000..9000..1000}; do
-    mkdir -p $i/0
-    
-
-done
