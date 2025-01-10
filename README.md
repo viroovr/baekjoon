@@ -30,4 +30,12 @@
 - [Gold II](https://github.com/viroovr/baekjoon/tree/master/Gold/Gold%20II)
 - [Gold I](https://github.com/viroovr/baekjoon/tree/master/Gold/Gold%20I)
 
+### [Platinum 🌌](https://github.com/viroovr/baekjoon/tree/master/Platinum)
+
+- [Platinum V](https://github.com/viroovr/baekjoon/tree/master/Platinum/Platinum%20V)
+- [Platinum IV](https://github.com/viroovr/baekjoon/tree/master/Platinum/Platinum%20IV)
+- [Platinum III](https://github.com/viroovr/baekjoon/tree/master/Platinum/Platinum%20III)
+- [Platinum II](https://github.com/viroovr/baekjoon/tree/master/Platinum/Platinum%20II)
+- [Platinum I](https://github.com/viroovr/baekjoon/tree/master/Platinum/Platinum%20I)
+
 ### [Unranked](https://github.com/viroovr/baekjoon/tree/master/Unranked)
